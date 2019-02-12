@@ -1,0 +1,22 @@
+{
+  "name": "watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piriya-online/watch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piriya-online/watch/issues"
+  },
+  "homepage": "https://github.com/piriya-online/watch#readme",
+  "dependencies": {
+    "node-watch": "^0.6.0"
+  }
+}
